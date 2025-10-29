@@ -16,23 +16,23 @@ Feel free to explore the sections as I present key artefacts, STAR reflections, 
 Thank you for visiting!
 
 
-
 ## 📚 Explore My Portfolio
 
 Each section highlights my growth and learning. Click any link to explore evidence and reflections:
 
-🔹 [💼 Career-Counselling](./Career-Counselling/.md)  
+🔹 [💼 Career Counselling](./career-counselling/README.md)  
 Insights into my career planning process with supporting artefacts.
 
-🔹 [🛠️ Skills&Interests](./Skills&Interest/.md)  
+🔹 [🛠️ Skills and Interests](./skills-interest/README.md)  
 A self-assessment of my strengths, skills, and how they shape my career direction.
 
-🔹 [🧠 Personality Assessment](./Personality-Assessment/.md)  
+🔹 [🧠 Personality Assessment](./personality-assessment/README.md)  
 A reflection on how my personality influences how I learn, work, and collaborate.
 
-🔹 [📝 Create a CV](./CV/.md)  
+🔹 [📝 Create a CV](./cv/README.md)  
 How I crafted my CV, supported by a guided workshop and final document.
 
-🔹 [📬 CV Submission](./CV-Submission/.md)  
+🔹 [📬 CV Submission](./cv-submission/README.md)  
 Confirmation and reflection on the experience of formally submitting my CV.
+
 
