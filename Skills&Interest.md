@@ -6,7 +6,9 @@ As part of the Career Readiness Training, I completed a self-assessment focused 
 
 📄 **Skills & Interests**
 
-![Skills & Interests Screenshot](/assets/Skills.png) 
+![Skills and Interest Screenshot](assets/Skills(135).png)
+
+
 
 ---
 
