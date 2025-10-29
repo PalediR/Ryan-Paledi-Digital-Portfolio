@@ -1,1 +1,1 @@
-# Ryan-Paledi-Digital-Portfolio
+# Ryan Paledi-Digital Portfolio
