@@ -14,3 +14,25 @@ This portfolio reflects my academic and personal development through the Work Re
 Feel free to explore the sections as I present key artefacts, STAR reflections, and insights gained.
 
 Thank you for visiting!
+
+
+
+## 📚 Explore My Portfolio
+
+Each section highlights my growth and learning. Click any link to explore evidence and reflections:
+
+🔹 [💼 Career Counselling](./Career-Counselling/.md)  
+Insights into my career planning process with supporting artefacts.
+
+🔹 [🛠️ Skills and Interests](./Skills&Interest/.md)  
+A self-assessment of my strengths, skills, and how they shape my career direction.
+
+🔹 [🧠 Personality Assessment](./Personality-Assessment/.md)  
+A reflection on how my personality influences how I learn, work, and collaborate.
+
+🔹 [📝 Create a CV](./CV/.md)  
+How I crafted my CV, supported by a guided workshop and final document.
+
+🔹 [📬 CV Submission](./CV-Submission/.md)  
+Confirmation and reflection on the experience of formally submitting my CV.
+
