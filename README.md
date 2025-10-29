@@ -21,10 +21,10 @@ Thank you for visiting!
 
 Each section highlights my growth and learning. Click any link to explore evidence and reflections:
 
-🔹 [💼 Career Counselling](./Career-Counselling/.md)  
+🔹 [💼 Career-Counselling](./Career-Counselling/.md)  
 Insights into my career planning process with supporting artefacts.
 
-🔹 [🛠️ Skills and Interests](./Skills&Interest/.md)  
+🔹 [🛠️ Skills&Interests](./Skills&Interest/.md)  
 A self-assessment of my strengths, skills, and how they shape my career direction.
 
 🔹 [🧠 Personality Assessment](./Personality-Assessment/.md)  
