@@ -7,7 +7,8 @@ The assessment suggested career paths such as Software Developer and Systems Ana
 
 
 🖼️ **Submission Confirmation Screenshot**
-![Career Quiz Screenshot](../assets/Screenshot%20(134).png)
+![Submission Confirmation Screenshot](Screenshot%20(134).png)
+
 
 
 ---
