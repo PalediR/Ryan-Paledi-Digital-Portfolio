@@ -20,7 +20,7 @@ Thank you for visiting!
 
 Each section highlights my growth and learning. Click any link to explore evidence and reflections:
 
-🔹 [💼 Career Counselling](./career-counselling/.md)  
+🔹 [💼 Career Counselling](/career-counselling/.md)  
 Insights into my career planning process with supporting artefacts.
 
 🔹 [🛠️ Skills and Interests](./skills-interest/.md)  
