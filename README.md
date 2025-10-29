@@ -20,19 +20,19 @@ Thank you for visiting!
 
 Each section highlights my growth and learning. Click any link to explore evidence and reflections:
 
-🔹 [💼 Career Counselling](./career-counselling/README.md)  
+🔹 [💼 Career Counselling](./career-counselling/.md)  
 Insights into my career planning process with supporting artefacts.
 
-🔹 [🛠️ Skills and Interests](./skills-interest/README.md)  
+🔹 [🛠️ Skills and Interests](./skills-interest/.md)  
 A self-assessment of my strengths, skills, and how they shape my career direction.
 
-🔹 [🧠 Personality Assessment](./personality-assessment/README.md)  
+🔹 [🧠 Personality Assessment](./personality-assessment/.md)  
 A reflection on how my personality influences how I learn, work, and collaborate.
 
-🔹 [📝 Create a CV](./cv/README.md)  
+🔹 [📝 Create a CV](./cv/.md)  
 How I crafted my CV, supported by a guided workshop and final document.
 
-🔹 [📬 CV Submission](./cv-submission/README.md)  
+🔹 [📬 CV Submission](./cv-submission/.md)  
 Confirmation and reflection on the experience of formally submitting my CV.
 
 
